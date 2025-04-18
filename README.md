@@ -1,0 +1,1 @@
+This project is the backend API for a simple Warehouse Management System designed to manage warehouses and their items efficiently. The backend is built to handle RESTful operations like listing, creating, updating, and deleting warehouses and inventory items.
